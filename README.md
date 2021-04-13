@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aruns-web
+- 👋 Hi, I’m Arun S
 
 <!---
 aruns-web/aruns-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
