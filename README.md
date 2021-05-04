@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://aruns-web" target="_blank"> Arun! </a> 
+### Hi there, 👋 I'm <a href="https://aruns-web" target="_blank"> Arun! </a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arun-wed)
 
 <!--
