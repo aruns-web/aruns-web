@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm <a href="https://aruns-web" target="_blank"> Arun! </a> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arun-wed)
 
 <!--
 **aruns-web/aruns-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
